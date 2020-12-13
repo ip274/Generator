@@ -15,11 +15,11 @@ python Generator.py
 -----
 
 # About this version
-:الاسم
+name:
 
 Generator
 
-:النسخة
+version:
 
 1.0
 
