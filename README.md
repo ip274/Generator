@@ -21,7 +21,7 @@ Generator
 
 version:
 
-1.0
+2.0
 
 The Developer twitter account:
 https://twitter.com/ip_274
