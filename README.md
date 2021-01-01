@@ -24,4 +24,4 @@ version:
 2.0
 
 The Developer twitter account:
-[twitter](https://twitter.com/ip_274)
+[@ip_274](https://twitter.com/ip_274)
