@@ -15,13 +15,10 @@ python Generator.py
 -----
 
 # About this version
-name:
+name: Generator
 
-Generator
+version: 2.0
 
-version:
-
-2.0
 
 The Developer twitter account:
 [@ip_274](https://twitter.com/ip_274)
