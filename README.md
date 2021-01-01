@@ -3,14 +3,14 @@ by this tool you can Generator Strong list
 
 # how to install Generator
 
-git clone https://github.com/ip274/Generator.git 
+> git clone https://github.com/ip274/Generator.git 
 
 
 # how to run Generator
 
-cd Generator
+> cd Generator
 
-python Generator.py
+> python Generator.py
 
 -----
 
