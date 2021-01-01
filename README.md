@@ -5,10 +5,10 @@ by this tool you can Generator Strong list
 
 git clone https://github.com/ip274/Generator.git 
 
-cd Generator
-
 
 # how to run Generator
+
+cd Generator
 
 python Generator.py
 
